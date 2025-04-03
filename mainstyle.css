@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(253, 238, 253);
+    color: palevioletred;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 42px;
+    background-color: rgba(0, 0, 0, 0.728);
+}
+h2{
+    color: rgb(114, 182, 250);
+    background-color: rgb(255, 249, 241);
+}

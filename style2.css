@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(253, 238, 253);
+}
+
+h1{
+    color: rgb(243, 62, 122);
+    font-size: 42px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: cornsilk;
+}
+h3{
+    color: rgb(139, 0, 60);
+    font-family: sans-serif;
+}
+
+h4{
+    color: rgb(123, 194, 237);
+    background-color: rgb(255, 253, 245);
+}
+
+a{
+    color: palevioletred;
+}
